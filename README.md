@@ -24,4 +24,6 @@ Step 2, use Xplorer360 to somehow put the “softmod packages” (unzip the file
 
 Step 3, plug in the USB into the xbox with the adapter and navigate to the memory card/data management screen and click on the memory card/USB and it should run the exploit.
 
-Step 4, Once on the menu, use the “NKitpatcher” option.
+Step 4, Once on the menu, use the “NKitpatcher” option, then it will bring up a file menu I think, navagate to the "Payload.xbe" on your USB.
+
+step 5, continue with the Rocky5 setup.
